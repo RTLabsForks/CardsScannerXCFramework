@@ -1,6 +1,0 @@
-framework module CardsScanner {
-  umbrella header "CardsScanner.h"
-
-  export *
-  module * { export * }
-}
